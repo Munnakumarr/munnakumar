@@ -6,10 +6,11 @@
 #### 👑 I am Mechanical Designer Engineer <br> 🥽Turning concepts into 3D realities <br> 👨‍🔧Engineer in progress, Designer by passion
 
 
-🚀ABOUT ME <br> I am a Mechanical Engineering student passionate about mechanical design and innovation. With hands-on experience in CAD tools like AutoCAD and Creo, I enjoy creating 2D and 3D models, exploring product development, and solving engineering challenges. Always eager to learn, I believe in continuous improvement and applying creativity to engineering solutions.
+### 🚀ABOUT ME
+ <br> I am a Mechanical Engineering student passionate about mechanical design and innovation. With hands-on experience in CAD tools like AutoCAD and Creo, I enjoy creating 2D and 3D models, exploring product development, and solving engineering challenges. Always eager to learn, I believe in continuous improvement and applying creativity to engineering solutions.
 
 ### Skills & Experiences
-<br> <br>✅AutoCAD <br>✅Creo Parametric <br>✅Solidworks <br>✅Engineering Drawing <br> ✅Part Modelling <br>✅2D & 3D Models |
+<br>✅AutoCAD <br>✅Creo Parametric <br>✅Solidworks <br>✅Engineering Drawing <br> ✅Part Modelling <br>✅2D & 3D Models |
 
 
 - 🔭 I’m currently working on Projects  
