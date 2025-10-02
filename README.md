@@ -11,7 +11,7 @@ I am a Mechanical Engineering student passionate about mechanical design and inn
 ### Skills & Experiences
 ✅AutoCAD <br>✅Creo Parametric <br>✅Solidworks <br>✅Engineering Drawing <br> ✅Part Modelling <br>✅2D & 3D Models |
 
-<br>
+
 - 🔭 I’m currently working on Projects  
 - 🌱 I’m currently learning Solidworks, Catia, Fusion, and MATLAB
   
